@@ -1,0 +1,45 @@
+/* Contact.css */
+
+.contact-section {
+  padding: 50px 0;
+}
+.contact-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0e5e5;
+}
+.Contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+.form-style {
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+.social-media-section {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.social-links {
+  display: block;
+  gap: 20px;
+  font-size: 24px;
+}
+
+.social-links i {
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.social-links i:hover {
+  color: #007bff;
+  width: 30px;
+}
